@@ -1,0 +1,74 @@
+[data-theme="dark"] {
+    background-color: #121212 !important;
+    color: #eee;
+    background-image: none;
+}
+
+[data-theme="dark"] .bg-light {
+    background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-lite {
+    background-color: #343a40 !important;
+}
+
+[data-theme="dark"] .nav-link {
+    color: #c38fff !important;
+}
+
+[data-theme="dark"] .social>a {
+    color: #c38fff;
+    border-color: #c38fff !important;
+}
+
+[data-theme="dark"] .divider {
+    color: #448aff !important;
+}
+
+[data-theme="dark"] .hero-banner {
+    background-color: #292929 !important;
+}
+
+[data-theme="dark"] .nav-shadow {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+}
+
+[data-theme="dark"] .heading {
+    color: #e9ecef!important;
+}
+
+[data-theme="dark"] p {
+    color: #adbbc4;
+}
+
+
+
+[data-theme="dark"] .name {
+    color: #c38fff!important;
+}
+
+[data-theme="dark"] .dark {
+    fill: #c38fff!important;
+}
+
+[data-theme="dark"] .phone,
+.mail {
+    color: #c38fff!important;
+}
+
+
+
+[data-theme="dark"] .btn {
+    background-color: #bb86fc !important;
+    color: #121212!important;
+    border: none;
+}
+
+[data-theme="dark"] .bg-white {
+    background-color: #1d1d1d !important;
+}
+
+
+[data-theme="dark"] .dark-icon {
+    color: #121212 !important;
+}
